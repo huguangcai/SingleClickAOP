@@ -18,6 +18,7 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+```
 
 3、在app的build.gradle中的最上面添加
 ```
